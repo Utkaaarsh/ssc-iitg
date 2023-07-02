@@ -50,6 +50,7 @@
 }
 .end-part{
     background:linear-gradient(300deg ,rgb(191, 159, 159), rgb(92, 92, 198), rgb(139, 190, 139));
+    margin-top: 170px;
     padding-bottom: 0.1px;
     padding-top: 2px;
 }
