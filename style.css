@@ -1,4 +1,5 @@
 .pic{
+    padding-left: 12px;
     height: 10vh;
     width: 10vh;
 
@@ -11,7 +12,7 @@
 }
 
 .iitg-logo{
-    height: 10vh;
+    height: 15vh;
   }
  .nav-link {
    font-size: 17px;
